@@ -1,2 +1,2 @@
 # Chat-App-using-TCP
-Client/server application where users can log in and chat with others.
+A client/server application which facilitates the easy communication between two or more logged in clients.
